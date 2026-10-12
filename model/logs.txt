@@ -1,0 +1,14 @@
+API endpoint: "/allUsers" with the method: "GET" was called at 10/6/2026, 9:03:42 AM
+API endpoint: "/allUsers" with the method: "GET" was called at 10/6/2026, 9:04:40 AM
+API endpoint: "/allUsers" with the method: "GET" was called at 10/7/2026, 4:32:36 PM
+API endpoint: "/newuser" with the method: "POST" was called at 10/8/2026, 3:50:06 PM
+API endpoint: "/newuser" with the method: "POST" was called at 10/8/2026, 3:53:39 PM
+API endpoint: "/deleteuser/3" with the method: "POST" was called at 10/8/2026, 3:55:26 PM
+API endpoint: "/deleteuser/3" with the method: "DELETE" was called at 10/8/2026, 3:55:36 PM
+API endpoint: "/newuser" with the method: "POST" was called at 10/8/2026, 3:56:08 PM
+API endpoint: "/newuser" with the method: "POST" was called at 10/8/2026, 3:57:55 PM
+API endpoint: "/newuser" with the method: "POST" was called at 10/8/2026, 4:01:51 PM
+API endpoint: "/newuser" with the method: "POST" was called at 10/8/2026, 4:02:33 PM
+API endpoint: "/newuser" with the method: "POST" was called at 10/8/2026, 4:03:29 PM
+API endpoint: "/newuser" with the method: "POST" was called at 10/8/2026, 4:04:50 PM
+API endpoint: "/newuser" with the method: "POST" was called at 10/8/2026, 4:06:57 PM
