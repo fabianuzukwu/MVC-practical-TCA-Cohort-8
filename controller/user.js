@@ -36,15 +36,13 @@ const allUsers = ( req, res ) => {
 
 // create new user
 const newUser = async ( req, res ) => {
-    const id = Math.max( database.map );
-    const name = req.body.name;
-    const gender = req.body.gender;
+    const {name, gender} = req.body
 
     // create user object
     const user = {
-        id: id,
-        name: name,
-        gender: gender
+        name,
+        gender,
+        id: database.length + 1
     };
 
     // update the database array
